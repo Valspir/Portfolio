@@ -13,8 +13,12 @@ For more details and the full code, check out the [Osiris repository](https://gi
 # Banking App
 
 Banking App UI Preview
-<img src="/images/maebank.png" alt="MaeBank Accounts Page" width="300"/><img src="/images/maebanksbar.png" alt="MaeBank SideBar" width="300"/><img src="/images/maebankreq.png" alt="MaeBank Requests Page" width="300"/>
 
+<div style="display: flex; gap: 10px;">
+  <img src="/images/maebank.png" alt="MaeBank Accounts Page" width="300"/>
+  <img src="/images/maebanksbar.png" alt="MaeBank SideBar" width="300"/>
+  <img src="/images/maebankreq.png" alt="MaeBank Requests Page" width="300"/>
+</div>
 
 In the UI preview above, you can get a glimpse of the design and layout of the Banking App. Please note that sensitive financial information and transactions are intentionally omitted to ensure privacy and security.
 
