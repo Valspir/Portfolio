@@ -13,8 +13,7 @@ For more details and the full code, check out the [Osiris repository](https://gi
 # Banking App
 
 Banking App UI Preview
-
-![MaeBank Accounts Page](/images/maebank.png)![MaeBank Sidebar](/images/maebanksbar.png)![MaeBank Request Page](/images/maebankreq.png)
+<img src="/images/maebank.png" alt="MaeBank Accounts Page" width="300"/><img src="/images/maebanksbar.png" alt="MaeBank SideBar" width="300"/><img src="/images/maebankreq.png" alt="MaeBank Requests Page" width="300"/>
 
 
 In the UI preview above, you can get a glimpse of the design and layout of the Banking App. Please note that sensitive financial information and transactions are intentionally omitted to ensure privacy and security.
